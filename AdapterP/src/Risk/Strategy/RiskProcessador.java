@@ -1,4 +1,4 @@
-package Risk.Strategy;
+package AdapterP.src.Risk.Strategy;
 
 public class RiskProcessador {
     private RiskStrategy strategy;
